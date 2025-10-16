@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nathan Branco  
 
-### 💻 Technology Instructor | AppSec | Red Team Enthusiast | Back-End Developer   
+### 💻 Technology Instructor | AppSec | Red Team Enthusiast | Software Engineer   
 
 I'm a technology educator and developer passionate about building secure, efficient, and scalable systems.  
 My focus lies in **Application Security (AppSec)**, **Red Team techniques**, and **software architecture** — blending education, innovation, and cybersecurity in every project I take on.  
