@@ -1,115 +1,78 @@
-# 👋 Hi, I'm Nathan Branco
+# 👋 Hi, I'm Nathan Branco  
 
-🎓 **Technology Educator | Back-End Developer | AppSec & Red Team Specialist**
+### 💻 Technology Instructor | Back-End Developer | AppSec | Red Team Enthusiast  
 
-I'm passionate about **bridging education, software engineering, and cybersecurity**.  
-With experience as a **Technology Instructor, QA Analyst for AAA Games, and Red Team enthusiast**,  
-I focus on developing **secure, high-performance systems** and **empowering the next generation of tech professionals**.
-
----
-
-## 🚀 What I Do
-
-- 🖥️ **Back-End Development** — Building scalable, object-oriented systems with clean architecture and RESTful APIs.  
-- 🔒 **Application Security (AppSec)** — Integrating secure development practices across the software lifecycle.  
-- 🎯 **Red Team & Offensive Security** — Applying adversarial thinking to strengthen system defenses.  
-- 🧠 **Tech Education & Innovation** — Teaching and designing educational programs focused on practical, future-proof skills.
+I'm a technology educator and developer passionate about building secure, efficient, and scalable systems.  
+My focus lies in **Application Security (AppSec)**, **Red Team techniques**, and **software architecture** — blending education, innovation, and cybersecurity in every project I take on.  
 
 ---
 
-## 🧰 Tech Stack
-
-### 🧠 Languages
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-</div>
+### 🚀 About Me  
+- 🎯 Focused on the intersection between **software development** and **offensive security**.  
+- 🧩 Experienced in **teaching, mentoring**, and creating modern learning environments.  
+- 🧠 Constantly learning and experimenting with **DevSecOps**, **SIEM monitoring**, and **threat modeling**.  
+- 🌎 Open to **remote or hybrid opportunities** in **technology and education** fields worldwide.  
 
 ---
 
-### ⚙️ Frameworks
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60"/>
-</div>
+### 🧰 Tech Stack  
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Frameworks:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+**Security Tools:**  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00457C?style=for-the-badge&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-444444?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-222222?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-005C84?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
+
+**DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge&logo=gitlab&logoColor=white)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Other Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Flask ngrok](https://img.shields.io/badge/Flask_ngrok-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🛡️ Security Tools
-<div align="center">
-
-🧰 **Burp Suite** | **OWASP ZAP** | **Metasploit** | **Snyk**  
-🔍 **Wireshark** | **Gobuster** | **Nikto** | **John the Ripper** | **SQLmap** | **Hydra**
-
-</div>
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanbranco/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathan-1211)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
 
-### 🐧 DevOps & Environment
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
-</div>
+### ✍️ Philosophy  
+> “The true strength of a developer lies not only in writing secure code,  
+> but in teaching others how to think securely.”
 
 ---
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60"/>
-</div>
-
----
-
-### 🧩 Other Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/><br>
-  <img src="https://img.shields.io/badge/flask--ngrok-000000?style=for-the-badge&logo=flask&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
-
----
-
-## 🌍 Goals
-
-I'm focused on building a **global career** that connects **education, cybersecurity, and software development**,  
-exploring opportunities in **Canada, Germany, and remote international projects**.
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathanbranco&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanbranco&layout=compact&theme=radical" height="160"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://www.instagram.com/brc_nathan/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="mailto:nathanbranco12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nathanbranco/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
-> *"Educating minds and securing systems — one line of code at a time."*
